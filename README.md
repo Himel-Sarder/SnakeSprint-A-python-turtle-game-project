@@ -7,7 +7,7 @@ SnakeSprint is a classic snake game implemented in Python using the Turtle modul
 
 ## Getting Started
 
-To play SnakeSprint, simply run the Python script `snake_sprint.py`. Use the arrow keys to control the direction of the snake: Up, Down, Left, and Right.
+To play SnakeSprint, simply run the Python script `SnakeSprint.py`. Use the arrow keys to control the direction of the snake: Up, Down, Left, and Right.
 
 ```
 python SnakeSprint.py
